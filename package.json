@@ -2,7 +2,7 @@
   "name": "mytestapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://priyagupta314-work.github.io/mytestapp/",
+  "homepage": "http://priyagupta314-work.github.io/name-your-startup/",
   "dependencies": {
     "@rstacruz/startup-name-generator": "0.3.0",
     "@testing-library/jest-dom": "^5.12.0",
