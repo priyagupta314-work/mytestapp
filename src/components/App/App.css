@@ -1,0 +1,10 @@
+:root{
+    --color-primary: #0f1228;
+    --color-secondary: #e7e9f0;
+}
+body{
+    background: var(--color-primary);
+    overflow-x: hidden;
+    color: var(--color-secondary);
+    font-family: 'Lato' , sans-serif;
+}
